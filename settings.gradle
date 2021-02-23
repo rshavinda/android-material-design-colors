@@ -1,0 +1,3 @@
+include ':mdcolors'
+include ':app'
+rootProject.name = "Material Design Color"
